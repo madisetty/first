@@ -1,3 +1,3 @@
 def val:
-	"this is new line"
+   print("this is new line")
 val()
