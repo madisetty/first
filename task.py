@@ -1,3 +1,1 @@
-def val:
-   print("this is new line")
-val()
+print("this is new line")
